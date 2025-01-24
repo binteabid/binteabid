@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sana-abid-binte-abid-7909252ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sana abid (binte abid)" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61559430932860&mibextid=JRoKGi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sana abid" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007567517612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sana abid" height="30" width="40" /></a>
 <a href="https://sanaabid-bint-e-abid.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sana abid (bint-e-abid)(@sana abid (bint-e-abid))" height="30" width="40" /></a>
 </p>
 
